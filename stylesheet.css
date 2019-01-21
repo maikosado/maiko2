@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    margin-top: 0;
+}
+
+h2 {
+    font-family: 'Courgette', cursive;
+    margin-top: 0;
+}
+
+
+/*★header*/
+header {
+    background-color: #71c9ce;
+    height: 50px;
+}
+#header-contact {
+    transition:all 1s;
+    line-height: 50px;
+}
+#header-contact:hover {
+    background-color: #e3fdfd;
+}
+
+
+/*★top*/
+.top {
+  background-image: url(images/maiko.jpg);
+  background-size: cover;
+  padding-top: 200px;
+  height: 800px;
+}
+.top-title {
+    font-size: 100px;
+    
+}
+.top-translator {
+ 
+}
+.top-description {
+    }
+
+/*★indication*/
+.indication {
+    background-color: #a6e3e9;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.indication-title {}
+.indication-logo1 {}
+.indication1 {}
+.indication2 {}
+.indication-logo2 {}
+.indication-logo3 {}
+.indication3 {}
+
+/*★experience*/
+.experience {
+    background-color: #e3fdfd;
+    padding-bottom: 50px;
+}
+.experience-title  {}
+
+.experience-table {
+    margin: auto;
+    text-align: left;
+}
+
+.experience1  {}
+.experience-star1  {}
+.experience2  {}
+.experience-star2  {}
+.experience3  {}
+.experience-star3  {}
+.experience4  {}
+.experience-star4  {}
+.experience5  {}
+.experience-star5  {}
+
+/*★tool*/
+.tool {
+    background-color: #a6e3e9;
+    padding-bottom: 50px;
+}
+.tool-title  {}
+
+.tool-table {
+    margin: auto;
+    text-align: left;
+}
+
+.tool1  {}
+.tool-star1  {}
+.tool2  {}
+.tool-star2  {}
+.tool3  {}
+.tool-star3  {}
+.tool4  {}
+.tool-star4  {}
+.tool5  {}
+.tool-star5  {}
+.tool6  {}
+.tool-star6  {}
+ 
+/*★contact*/
+#contact {
+    background-color: #e3fdfd;
+    padding-bottom: 50px;
+}
+.contact-title {}
+.contact-btn {
+    background-color: #a6e3e9;
+    border-radius: 10px;
+    height: 50px;
+}
+.contact-btn:hover {
+    background-color: #e3fdfd;
+}
+.contact-return {
+    font-size: 15px;
+    transition:all 1s;
+    line-height: 50px;
+}
+.contact-return:hover {
+    background-color: #71c9ce;
+}
+
+
+/*★footer*/
+footer {
+    background-color: #71c9ce;
+    height: 50px;
+}
+
+.linkedin {
+    transition:all 1s;
+}
+.linkedin:hover {
+    background-color: #e3fdfd;
+}
+
+
+.last-description {
+    font-size: 10px;
+}
