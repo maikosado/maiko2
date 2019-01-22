@@ -30,7 +30,7 @@ header {
 
 /*★top*/
 .top {
-  background-image: url(https://github.com/maikosado/maiko2/blob/master/maiko.jpg?raw=true);
+  background-image: url(maiko.jpg);
   background-size: cover;
   padding-top: 200px;
   height: 800px;
