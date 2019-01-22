@@ -30,7 +30,7 @@ header {
 
 /*★top*/
 .top {
-  background-image: url(https://github.com/maikosado/maiko2/blob/master/maiko.jpg?raw=true);
+  background-image: url(images/maiko.jpg);
   background-size: cover;
   padding-top: 200px;
   height: 800px;
@@ -53,7 +53,7 @@ header {
 }
 .indication-title {}
 .indication-logo1 {}
-.indication1 {}
+.indication1 {display: none;}
 .indication2 {}
 .indication-logo2 {}
 .indication-logo3 {}
@@ -129,6 +129,7 @@ header {
 .contact-return:hover {
     background-color: #71c9ce;
 }
+.thanks-btn {display: none;}
 
 
 /*★footer*/
