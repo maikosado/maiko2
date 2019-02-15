@@ -1,3 +1,4 @@
+/* 
 var name = prompt("What is your name?");
 var firstChar = name.slice(0,1);
 var upperCaseFirstChar = firstChar.toUpperCase();
@@ -16,7 +17,8 @@ alert("You have written " + message.length + " characters." + " You can write mo
 prompt("What is your beloved one's name?")
 var loveScore = Math.random() * 100;
 loveScore = Math.floor(loveScore) + 1;
-alert("Your love score is " +loveScore + "%.");
+alert("Your love score is " +loveScore + "%."); 
+*/
 
 //★top
 $(".top-title").hover(
